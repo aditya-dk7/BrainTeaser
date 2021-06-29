@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">BrainTeaser</string>
+    <string name="brain_teaser">Brain Teaser</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="welcome">WELCOME</string>
+    <string name="next">NEXT</string>
+    <string name="name">Name</string>
+    <string name="choose_quiz">Choose Quiz</string>
+    <string name="optionOne">Math</string>
+    <string name="optionTwo">Geography</string>
+    <string name="optionThree">Anime</string>
 </resources>
